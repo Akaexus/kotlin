@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CameraExample</string>
+    <string name="button_takePicture">Zrób zdjęcie</string>
+    <string name="temp_images_dir">temp_images</string>
+    <string name="temp_image">temp_image.jpg</string>
+    <string name="authorities">com.example.fileprovider</string>
+    <string name="button_getPicture">Pobierz zdjęcie</string>
+</resources>
